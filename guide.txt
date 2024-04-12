@@ -1,0 +1,50 @@
+ ==== BUILDING A SOLANA NFT (MONKEY BUSINESS)  ====
+
+time: 1:03:37
+[error coming from quik node rpc and soon from candy id]
+
+ Quick node -> is a blokchain development platform that gives 
+ us rpc to help us connect directly to the solana 
+ blokchain.
+--> 
+
+
+1  CONNETING OUR WALLET 
+time : 20:00 
+
+
+
+2.  CREATING NFT DROP IN SOLANA BLOCHCHAIN
+time: 00:22:24
+beta.solpg.io -> create using solana playground
+frame-work --> native(rust),anchor(rust), seahorse(python)
+
+use anchor
+
+go to opensea monkey business collection
+
+run
+- sugar create-config
+- sugar upload 
+[select the assest files and upload it]
+- sugar deploy
+[send the candy machine to the solana blokchain]
+- sugar guard add 
+[for the first change]
+- sugar guard update 
+[for continues changes.]
+
+ERROR --> it did'nt add the candy guard id to my project
+
+Arweave ==> is a decentralize storage device
+
+==== ERROR CODING   =====
+- use a fake rpc url quick node 
+[did not have visa or strip or paypal]
+- the candy guard id did not add to my project 
+[need to create a new candy machine]
+
+===== FURTHER LEARNING  ===== 
+- get a stripe account 
+- need to get visa card or master card 
+- 
